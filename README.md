@@ -1,7 +1,7 @@
 # MasterThesis_DMF
 Master thesis - Simulation Models of Dual Mass Flywheel
 
-In this respitory you will models used in Master thesis - Simulation Models of Dual Mass Flywheel, (c) Daniel Johansson, Kim Karlsson. 
+In this respitory you will find models used in Master thesis - Simulation Models of Dual Mass Flywheel, (c) Daniel Johansson, Kim Karlsson. 
 
 Under AVL.rar:
   - Model 1, Linear Spring System
