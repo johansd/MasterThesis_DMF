@@ -9,7 +9,7 @@ Under AVL.rar:
   - Model 3, Arc-Spring Friction Model
   - Load data (Sine and realistic), Fricion data tables
 
-Under PYTHON.rar:
+Under PYTHON.zip:
 
 In the folder, Linear and Two stage system, all the scripts and data to compute the results for Model 1,2 are 
 included.
